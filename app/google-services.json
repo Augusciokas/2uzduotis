@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640391593414",
+    "firebase_url": "https://uzduotis-3-bandymas.firebaseio.com",
+    "project_id": "uzduotis-3-bandymas",
+    "storage_bucket": "uzduotis-3-bandymas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640391593414:android:de77c56c3651bd6f",
+        "android_client_info": {
+          "package_name": "com.example.augustinas.a2uzduotis3bandymas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640391593414-59hkol0j85vpmjduu96lri2uaj0ot7hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.augustinas.a2uzduotis3bandymas",
+            "certificate_hash": "4f4016614deedd900f5c22f56191d98bb0e6541b"
+          }
+        },
+        {
+          "client_id": "640391593414-rh7js8fvvtg1ilhhiqpinhakbepveq07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-wwoUJLvnijjr-vnLOsFqUCCiS0eO_GA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640391593414-rh7js8fvvtg1ilhhiqpinhakbepveq07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
